@@ -1,0 +1,46 @@
+img {
+    display: block;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+    margin: 0 auto;
+}
+
+h1,p,figcaption,div {
+    text-align: center;
+}
+
+#tribute-info, #tribute-link {
+    text-align: center;
+    font-size: 30px;
+    margin: 5 auto;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+main {
+    background-color: #e3e3e3;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    align-items: center;
+  }
+
+figure{
+    background-color: white;
+    padding: 10px
+}
+
+ul {
+    padding: 0 15%;
+}
+
+li {
+    padding: 5px;
+}
